@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# TypeScript output
+dist/
+*.js
+*.js.map
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Large data files (JSON/CSV)
+*.json
+*.csv
